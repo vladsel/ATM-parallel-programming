@@ -9,7 +9,7 @@ The ATM accepts an application for payment of money in the amount of X, compares
 by the amount of money in the client's Y account and, if X<Y, makes a withdrawal attempt 
 certain banknotes in denominations of 1, 2, 5, 10, 20, 50, 100 hryvnias. The values of X and Y are
 random numbers The initial number of bills of different denominations in the ATM 
-given by the student. If amount X is to be disbursed, the program determines whether 
+given by the developer. If amount X is to be disbursed, the program determines whether 
 you can pay this amount with currently available bills. If so -
 money is issued (the number of bills available in the ATM is also adjusted 
 of the corresponding denomination), if not - the ATM reports a refusal.
