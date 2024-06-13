@@ -1,6 +1,6 @@
 # ATM
-Develop a program that simulates the operation of a given object, using means for process access to shared resources 
-synchronization. The device being modeled and the means of synchronizing processes are determined by the task variant.
+1. Develop a program that simulates the operation of a given object, using means for process access to shared resources 
+synchronization. The device being modeled and the means of synchronizing processes are determined by the task.
 2. Provide visualization of the model's operation with a visual demonstration results.
 3. Analyze and explain the obtained results. For results work to provide conclusions about the used synchronization tools.
 
