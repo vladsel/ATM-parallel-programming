@@ -1,8 +1,10 @@
 # ATM
-1. Develop a program that simulates the operation of a given object, using means for process access to shared resources 
+Develop a program that simulates the operation of a given object, using means for process access to shared resources 
 synchronization. The device being modeled and the means of synchronizing processes are determined by the task.
-2. Provide visualization of the model's operation with a visual demonstration results.
-3. Analyze and explain the obtained results. For results work to provide conclusions about the used synchronization tools.
+
+Provide visualization of the model's operation with a visual demonstration results.
+
+Analyze and explain the obtained results. For results work to provide conclusions about the used synchronization tools.
 
 Model object: ATM.
 The ATM accepts an application for payment of money in the amount of X, compares it with 
